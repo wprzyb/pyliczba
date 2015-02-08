@@ -1,10 +1,5 @@
-This project is no longer maintained here
-=========================================
-
-Please take a look at
-[sq6jnx/pyliczba](www.github.com/sq6jnx/pyliczba).
-
-- - -
+Pyliczba
+========
 
 Pyliczba is a Python utility module for converting numerical values to
 Polish text, useful in printing invoices etc. For now, it is a single source
@@ -19,10 +14,3 @@ Funkcja w Pythonie służąca wypisywaniu liczby słownie. Moduł do pobrania z:
 - - -
 
 Implementacja w języku JAVA: https://github.com/noisy/LiczbaSlownie
-
-
-This project no longer maintained here
-======================================
-
-Please take a look at
-[sq6jnx/pyliczba](www.github.com/sq6jnx/pyliczba).
